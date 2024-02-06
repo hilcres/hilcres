@@ -1,4 +1,6 @@
 ### Hi I am Hilmer Crespo 👋
+![Static Badge](https://img.shields.io/badge/Hilmer-Crespo?style=for-the-badge&logo=academia&labelColor=%2347667b&color=%23a5c3a7&cacheSeconds=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5MM42-j7QzQ)
+
 
 <!--
 **hilcres/hilcres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
